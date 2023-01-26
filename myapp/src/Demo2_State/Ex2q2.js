@@ -14,6 +14,9 @@ class Ex2q2Comp extends Component
     }
 
 
+
+
+
     
 
     
