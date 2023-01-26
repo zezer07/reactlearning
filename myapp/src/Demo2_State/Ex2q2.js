@@ -13,6 +13,9 @@ class Ex2q2Comp extends Component
       this.state = {num : 0, total : 0}
     }
 
+
+    
+
     
 
     ajoute =() =>
