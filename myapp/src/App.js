@@ -15,7 +15,7 @@ class App extends Component {
     return (
       <div> <h1>Hello from App</h1>
 
-        <PropsComp />
+        <Demo6Comp />
 
       </div>
     )
